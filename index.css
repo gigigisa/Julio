@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(251, 251, 251);
+    }
+.container-1{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    }
+.image{
+    background-color: rgb(0, 0, 0);
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    text-align: center;
+    }
+    .image img{
+        border-radius: 100px;
+        width: 200px;
+        height: 200px;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+    .img2{
+        width: 250px;
+    }
+    h1, a{
+        width: 100%;
+        text-align: center;
+        color: black;
+        text-decoration: none;
+    }
+    h5{
+        font-size: 26px;
+    }
+    p{
+        text-align: justify;
+    }
+    #p2{
+        margin-left: 850px;
+    }
+    .cards{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 100px;
+    }
+    .container-2 p{
+    display:flex;
+    width: 800px;
+    margin-left: 600px;
+    }
+    .techn{
+        display: flex;
+        width: 100%;
+        margin-top: 75px;
+        margin-left: 850px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    .techn h1{
+        margin: 100px;
+        
+    }
+    .techn img{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .alingn{
+        display: flex;
+        flex-direction: column;
+        width:500px;
+        margin-left: 20vw;
+    }
+    .card{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer{
+        width: 100%;
+        padding: 90px;
+        display: flex;
+    }
+    .block{
+        margin-left: 1400px;
+    }
+    footer{
+        justify-content: flex-end;
+        margin-top: 100px;
+
+    }
+    footer img{
+        width: 25px;
+        height:25px;
+    }
+    .caixa{
+        display: block;
+    }
