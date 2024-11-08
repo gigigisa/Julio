@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(166, 166, 166);
 }
 header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(251, 251, 251);
+    background-color: rgb(177, 177, 177);
     }
 .container-1{
     display: flex;
@@ -44,14 +44,18 @@ header{
     }
     p{
         text-align: justify;
+        
     }
     #p2{
-        margin-left: 850px;
+        margin-left: 750;
+        justify-content: center;
     }
     .cards{
         display: flex;
         justify-content: space-between;
-        margin-top: 100px;
+        padding: 30px;
+        margin-right: 50px;
+        margin-left: 30px;
     }
     .container-2 p{
     display:flex;
@@ -62,7 +66,7 @@ header{
         display: flex;
         width: 100%;
         margin-top: 75px;
-        margin-left: 850px;
+        margin-left: 550px;
     }
     h1{
         font-size: 50px;
@@ -93,6 +97,7 @@ header{
     }
     .block{
         margin-left: 1400px;
+        margin-top: 60px;
     }
     footer{
         justify-content: flex-end;
