@@ -91,23 +91,24 @@ header{
         flex-direction: column;
     }
     .footer{
-        width: 100%;
-        padding: 90px;
         display: flex;
+        align-items: center;
+        justify-content: end;
     }
     .block{
-        margin-left: 1400px;
-        margin-top: 60px;
     }
+    
     footer{
-        justify-content: flex-end;
         margin-top: 100px;
-
+        height: 30px;
+        background-color: aliceblue;
+        padding: 50px;
     }
     footer img{
         width: 25px;
         height:25px;
     }
     .caixa{
-        display: block;
+        display: flex;
+        margin-right: 1350px;
     }
